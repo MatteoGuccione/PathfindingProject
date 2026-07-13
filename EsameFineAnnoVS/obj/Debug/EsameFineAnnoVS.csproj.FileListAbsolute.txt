@@ -1,0 +1,304 @@
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\obj\Debug\EsameFineAnnoVS.csproj.AssemblyReference.cache
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\obj\Debug\EsameFineAnnoVS.csproj.CoreCompileInputs.cache
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\PixelPackTOPDOWN8BIT.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\EsameFineAnnoVS.exe.config
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\EsameFineAnnoVS.exe
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\EsameFineAnnoVS.pdb
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\aiv-fast2d.dll
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\OpenTK.dll
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\OpenTK.pdb
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\OpenTK.xml
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\obj\Debug\EsameFin.BD835901.Up2Date
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\obj\Debug\EsameFineAnnoVS.exe
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\obj\Debug\EsameFineAnnoVS.pdb
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Attack D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Attack R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Attack U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Death.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Hurt D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Hurt R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Hurt U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Idle D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Idle R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Idle U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer JumpRoll D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer JumpRoll R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer JumpRoll U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Push D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Push R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Push U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Walk D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Walk R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Walk U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_bananas.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_bell.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_bomb.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_bones.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_book.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_boots.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_bow.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_chest.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_coin.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_compass.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_crown.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_feather.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_floppydisk.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_gem.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_glove.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_hammer.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_harp.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_heart.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_key.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_lamp.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_leaf.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_mirror.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_moneybag.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_mushroom.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_pickaxe.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_pot.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_potion.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_ring.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_scroll.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_seashell.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_shield.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_shovel.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_skull.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_skullkey.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_sword.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\TestMapDoorOpen.tmx
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\HouseMap.tmx
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer_Walk_D-0-NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Walk U-NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Walk R-NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\FutureMapArea.tmx
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\OverworldMapNoSapling.tmx
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\textSheet.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\comics.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Attack D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Attack R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Attack U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Death.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Hurt D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Hurt R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Hurt U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Idle D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Idle R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Idle U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog JumpRoll D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog JumpRoll R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog JumpRoll U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Push D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Push R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Push U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Walk D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Walk R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Walk U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Attack D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Attack R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Attack U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Death D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Hurt D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Hurt R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Hurt U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Idle D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Idle R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Idle U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess JumpRoll D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess JumpRoll R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess JumpRoll U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Push D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Push R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Push U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Walk D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Walk R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Walk U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\NBG\HEROS_PixelPackTOPDOWN8BIT_Princess Walk D-NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\NBG\HEROS_PixelPackTOPDOWN8BIT_Princess Walk R-NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\NBG\HEROS_PixelPackTOPDOWN8BIT_Princess Walk U-NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\NBG\HEROS_PixelPackTOPDOWN8BIT_Dog Walk D_NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\NBG\HEROS_PixelPackTOPDOWN8BIT_Dog Walk R_NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\NBG\HEROS_PixelPackTOPDOWN8BIT_Dog Walk U_NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\DungeonMap.tmx
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\OverworldMap.tmx
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ENEMIES\BLOB\ENEMIES_PixelPackTOPDOWN8BIT_Blob Death.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ENEMIES\BLOB\ENEMIES_PixelPackTOPDOWN8BIT_Blob Hurt.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ENEMIES\BLOB\ENEMIES_PixelPackTOPDOWN8BIT_Blob Idle.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ENEMIES\BLOB\ENEMIES_PixelPackTOPDOWN8BIT_Blob Walk.gif
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\aiv-audio.dll
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\NVorbis.dll
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\System.ValueTuple.dll
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\NVorbis.xml
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\System.ValueTuple.xml
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\MUSIC\1BITTopDownMusics - Track 01 (1BIT Adventure).wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\MUSIC\1BITTopDownMusics - Track 02 (1BIT Dark Cave).wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\MUSIC\1BITTopDownMusics - Track 03 (1BIT Eerie).wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Attack01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Attack02.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Attack03.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Death01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Death02.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Fall01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Hurt01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Hurt02.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Jump01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Jump02.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Jump03.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Land01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\MenuBack01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\MenuCursor01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\MenuValid01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Pickup01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ENEMIES\BLOB\ENEMIES_PixelPackTOPDOWN8BIT_Blob Walk.png
+C:\Users\Matte\Desktop\EsameFineAnno\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\AivDraw.dll
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\comics.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\MUSIC\1BITTopDownMusics - Track 01 (1BIT Adventure).wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\MUSIC\1BITTopDownMusics - Track 02 (1BIT Dark Cave).wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\MUSIC\1BITTopDownMusics - Track 03 (1BIT Eerie).wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\PixelPackTOPDOWN8BIT.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Attack01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Attack02.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Attack03.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Death01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Death02.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Fall01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Hurt01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Hurt02.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Jump01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Jump02.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Jump03.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Land01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\MenuBack01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\MenuCursor01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\MenuValid01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SFX\Pickup01.wav
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ENEMIES\BLOB\ENEMIES_PixelPackTOPDOWN8BIT_Blob Death.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ENEMIES\BLOB\ENEMIES_PixelPackTOPDOWN8BIT_Blob Hurt.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ENEMIES\BLOB\ENEMIES_PixelPackTOPDOWN8BIT_Blob Idle.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ENEMIES\BLOB\ENEMIES_PixelPackTOPDOWN8BIT_Blob Walk.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ENEMIES\BLOB\ENEMIES_PixelPackTOPDOWN8BIT_Blob Walk.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Attack D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Attack R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Attack U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Death.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Hurt D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Hurt R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Hurt U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Idle D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Idle R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Idle U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer JumpRoll D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer JumpRoll R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer JumpRoll U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Push D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Push R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Push U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Walk D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Walk R-NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Walk R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Walk U-NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer Walk U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\ADVENTURER\HEROS_PixelPackTOPDOWN8BIT_Adventurer_Walk_D-0-NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Attack D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Attack R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Attack U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Death.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Hurt D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Hurt R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Hurt U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Idle D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Idle R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Idle U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog JumpRoll D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog JumpRoll R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog JumpRoll U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Push D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Push R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Push U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Walk D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Walk R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\HEROS_PixelPackTOPDOWN8BIT_Dog Walk U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\NBG\HEROS_PixelPackTOPDOWN8BIT_Dog Walk D_NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\NBG\HEROS_PixelPackTOPDOWN8BIT_Dog Walk R_NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\DOGGO\NBG\HEROS_PixelPackTOPDOWN8BIT_Dog Walk U_NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Attack D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Attack R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Attack U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Death D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Hurt D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Hurt R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Hurt U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Idle D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Idle R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Idle U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess JumpRoll D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess JumpRoll R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess JumpRoll U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Push D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Push R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Push U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Walk D.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Walk R.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\HEROS_PixelPackTOPDOWN8BIT_Princess Walk U.gif
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\NBG\HEROS_PixelPackTOPDOWN8BIT_Princess Walk D-NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\NBG\HEROS_PixelPackTOPDOWN8BIT_Princess Walk R-NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\HEROS\PRINCESS\NBG\HEROS_PixelPackTOPDOWN8BIT_Princess Walk U-NBG.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_bananas.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_bell.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_bomb.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_bones.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_book.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_boots.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_bow.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_chest.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_coin.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_compass.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_crown.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_feather.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_floppydisk.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_gem.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_glove.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_hammer.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_harp.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_heart.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_key.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_lamp.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_leaf.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_mirror.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_moneybag.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_mushroom.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_pickaxe.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_pot.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_potion.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_ring.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_scroll.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_seashell.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_shield.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_shovel.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_skull.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_skullkey.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\SPRITES\ITEMS\item8BIT_sword.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\textSheet.png
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\DungeonMap.tmx
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\FutureMapArea.tmx
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\HouseMap.tmx
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\OverworldMapNoSapling.tmx
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\OverworldMap.tmx
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\Assets\TestMapDoorOpen.tmx
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\EsameFineAnnoVS.exe.config
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\EsameFineAnnoVS.exe
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\EsameFineAnnoVS.pdb
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\aiv-audio.dll
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\aiv-fast2d.dll
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\AivDraw.dll
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\NVorbis.dll
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\OpenTK.dll
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\System.ValueTuple.dll
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\NVorbis.xml
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\OpenTK.pdb
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\OpenTK.xml
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\bin\Debug\System.ValueTuple.xml
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\obj\Debug\EsameFineAnnoVS.csproj.AssemblyReference.cache
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\obj\Debug\EsameFineAnnoVS.csproj.CoreCompileInputs.cache
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\obj\Debug\EsameFin.BD835901.Up2Date
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\obj\Debug\EsameFineAnnoVS.exe
+C:\Users\Matte\Desktop\EsameFineAnno\Progetto-Video-Word\EsameFineAnnoVS\EsameFineAnnoVS\obj\Debug\EsameFineAnnoVS.pdb
